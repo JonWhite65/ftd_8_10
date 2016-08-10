@@ -1,4 +1,4 @@
-package day3;
+package ftd_8_10;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -15,8 +15,7 @@ public class day3 {
 		while(true){
 			write.write(read.readLine());
 			
-			"s".length()
-			"e".
+
 			
 			
 			
@@ -25,4 +24,4 @@ public class day3 {
 		}
 	}
 
-}
+
